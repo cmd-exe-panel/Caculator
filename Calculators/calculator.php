@@ -6,7 +6,7 @@
   </head>
   <body>
 
-    <form action="caculator.php" method="post">
+    <form action="calculator.php" method="post">
         First Num:<input type="number" step="0.1" name="num1"> <br>
         OP: <input type="text" name="op"><br>
         Second Num:<input type="number" step="0.1" name="num2"> <br>
